@@ -11,8 +11,8 @@ Deploy it into your Kubernetes cluster and confirm that it's running with kubect
 # Solution 
 
 
-- Application was built in Java. Source code can be found here.
-- Image was pushed to Docker Hub repo benjaminsuljic82/log-output.
+- Application was built in Java. Source code can be found [here](https://example.com](https://github.com/benjaminsuljic/DevOps_With_Kubernetes_2025/blob/main/Part1/Exercise-1.1/app/logoutput/src/LogOutput.java)).
+- Image was pushed to Docker Hub repo [benjaminsuljic82/log-output](https://hub.docker.com/repository/docker/benjaminsuljic82/log-output/general).
 - The following commands were used to create and test Kubernetes deployment:
 
 ![Alt text](Exercise1.1.png)
